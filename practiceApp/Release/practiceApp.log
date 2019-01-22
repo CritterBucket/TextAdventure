@@ -1,0 +1,12 @@
+﻿  Container.cpp
+  Inventory.cpp
+  practiceApp.cpp
+practiceApp.cpp(27): warning C4129: '.': unrecognized character escape sequence
+practiceApp.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  78 of 206 functions (37.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    68 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  practiceApp.vcxproj -> C:\Users\Caitlin\Documents\Visual Studio 2015\Projects\practiceApp\Release\practiceApp.exe
+  practiceApp.vcxproj -> C:\Users\Caitlin\Documents\Visual Studio 2015\Projects\practiceApp\Release\practiceApp.pdb (Full PDB)
